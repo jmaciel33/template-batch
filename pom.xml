@@ -16,9 +16,9 @@
 	<dependencies>
 		<!-- Spring Core -->
 		<dependency>
-			<groupId>org.springframework</groupId>
-			<artifactId>spring-core</artifactId>
-			<version>${spring.version}</version>
+		  <groupId>org.springframework</groupId>
+		  <artifactId>spring-core</artifactId>
+		  <version>4.3.17</version>
 		</dependency>
 
 		<!-- Spring jdbc -->
